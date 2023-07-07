@@ -1,4 +1,4 @@
-# EM Cmap Scoring Tool REVIEW AND UPDATE
+# EM Cmap Scoring Tool REVIEW AND UPDATE IMAGES AND TEXT
 Repository containing the distribution version of the EM Cmap Scoring Tool
 
 ## :wrench: Installing EM Cmap Scoring Tool
