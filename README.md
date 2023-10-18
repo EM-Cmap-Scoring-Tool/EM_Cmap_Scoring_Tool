@@ -14,7 +14,11 @@ The EM Cmap Scoring Tool is a desktop application developed to automatically ass
 [Including a New Codebook](#orange_book-including-a-new-codebook)
 
 ## :wrench: Installing EM Cmap Scoring Tool
-- Please go over and click the [**EM_Cmap_Scoring_Tool_V_1_1.zip**](https://github.com/EM-Cmap-Scoring-Tool/EM_Cmap_Scoring_Tool/tree/main/Releases) that is under the *Releases* folder at the top of this page, then clik on the *Download* option on the right side of the screen.
+The original realese under the name "EM_Cmap_Scoring_Tool_Launcher" was found to have a bug in the way the algorithm assigned the highest hierarchy.
+
+The new release under the name "EM_Cmap_Scoring_Tool_V_1_1" addresses the situation.
+
+- Please go over and click the [**EM_Cmap_Scoring_Tool_V_1_1.zip**](https://github.com/EM-Cmap-Scoring-Tool/EM_Cmap_Scoring_Tool/blob/main/Releases/EM_Cmap_Scoring_Tool_V_1_1.zip) that is under the *Releases* folder at the top of this page, then clik on the *Download* option on the right side of the screen.
   
 ![image](https://user-images.githubusercontent.com/74432387/252469796-8bc02477-e390-4e0a-9deb-421043caebd0.png)
  
